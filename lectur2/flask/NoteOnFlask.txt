@@ -1,0 +1,3 @@
+When Flask is runned for the first time "flask run" command won't work, because of the environment
+variable is not setted up for Flask.
+** To set it type "export FLASK_APP=application.py"
